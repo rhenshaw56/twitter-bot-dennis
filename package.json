@@ -1,0 +1,31 @@
+{
+  "name": "twitter-bot-dennis",
+  "version": "1.0.0",
+  "description": "a twitter automating tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "dennis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhenshaw56/twitter-bot-dennis.git"
+  },
+  "keywords": [
+    "dennis",
+    "bot",
+    "twitter",
+    "tweet",
+    "retweet"
+  ],
+  "author": "rowland henshaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhenshaw56/twitter-bot-dennis/issues"
+  },
+  "homepage": "https://github.com/rhenshaw56/twitter-bot-dennis#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "twit": "^2.2.5",
+    "unique-random-array": "^1.0.0"
+  }
+}
